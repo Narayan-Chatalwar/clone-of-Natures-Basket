@@ -1,1 +1,57 @@
 # clone-of-Nature-s-Basket
+
+How We Cloned Nature’s Basket website
+Hello Folks,
+
+I hope you are good and safe. I am happy to share with you all, our construct weak projects along with my Teammates. This blog is all about our journey and the challenges we faced while building the project. we have cloned the Nature’s Basket Website this is an E-Commerce Website for helping this site you can buy nature-related products and find the details of the product.
+
+Creators:
+
+Chhavi Srivastva
+
+Narayan Chatalwar
+
+Yash Tomar
+
+Shiva Datta
+
+Iqbal Ali
+
+Bipin Mishra
+
+We are in Unit-4 from Web-16 Batch and students of Masai School
+
+at the end of the unit, the Masai team is assigned a project and the project is based on the technology we learned in the whole unit in this project we used React- Redux and React -Router-Dom.
+
+Where do we feel Difficulties 🙄🙄??
+when we have seen the project our minds got scared 😑 but when we add the functionality and try to visualize and take a deep breath everything is good and the most challenging part for us is to build the cart page and the product detail page as we were building our first project in React js. All tho we managed over all things, here is how it looks.
+
+Some Snip and details About our project
+This is the front of our project created by Yash Tomar and in this part, we have added the navbar, and when you click on any page it will redirect to the particular page.
+
+
+When you click on the login button it will redirect to the login page. This is is our landing page created by chhavi Srivastava.
+
+
+
+and we have added the one new page (blogs ) some snipped blog page
+
+
+If we talk about the product section, this part is created by Narayan Chatalwar. this is the products section of the website where you can get various kinds of fruits and vegetables. We applied some filters here, so whenever you will click on the particular product filter it will filter all the products according to your need.
+
+
+when you click add button also check the details of that particular product.
+
+
+This is the wine and beer section of the website Created by Bipin Mishra where you can buy wines and beers according to your choice. On this page also there are some filters which you can youse to get the particular product.
+
+
+This is the offers page of our website built by Iqbal Ali. in this page you will get various offers present on the various products.
+
+
+This is the past purchase section of the website Created by Shiva Datta. here you can track your past purchases and new offers on the past purchased products.
+
+
+The conclusion…
+We know that it was a bit difficult for us to build all the features of the websites with in the given timeline of 6 days so we build all the pages and features possible. We also learned to collaborate with team members. As we all are new to this domain still everyone has done a marvelous job. We talked with each other through various platforms like slack, WhatsApp, and zoom whenever we felt difficulty in building a particular feature. Hence we share a good bond of friendship now.
+
