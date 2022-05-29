@@ -40,7 +40,7 @@ When you click on the login button it will redirect to the login page. This is i
 and we have added the one new page (blogs ) some snipped blog page
 <img src="https://miro.medium.com/max/875/0*vLKqa6M9eSB8f7rn.png" alt="Alt text" title="Optional title">
 
-If we talk about the product section, this part is created by Narayan Chatalwar. this is the products section of the website where you can get various kinds of fruits and vegetables. We applied some filters here, so whenever you will click on the particular product filter it will filter all the products according to your need.
+If we talk about the product section, this part is created by Narayan Chatalwar. this is the products section of the website where you can get various kinds of fruits and vegetables. We applied some filters here, so whenever you will click on the particular product filter it will filter all the products according to your need. <br/>
 <img src="https://miro.medium.com/max/875/0*3Ek-t1ZwajWzz3ic.jpeg" alt="Alt text" title="Optional title">
 
 when you click add button also check the details of that particular product.
