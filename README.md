@@ -56,6 +56,6 @@ This is the offers page of our website built by Iqbal Ali. in this page you will
 This is the past purchase section of the website Created by Shiva Datta. here you can track your past purchases and new offers on the past purchased products.
 <img src="https://miro.medium.com/max/875/1*_kqLH3pTTwgo4KipRJnjuw.png" alt="Alt text" title="Optional title">
 
-The conclusion…
+The conclusion…<br/>
 We know that it was a bit difficult for us to build all the features of the websites with in the given timeline of 6 days so we build all the pages and features possible. We also learned to collaborate with team members. As we all are new to this domain still everyone has done a marvelous job. We talked with each other through various platforms like slack, WhatsApp, and zoom whenever we felt difficulty in building a particular feature. Hence we share a good bond of friendship now.
 
